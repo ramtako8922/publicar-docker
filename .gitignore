@@ -1,0 +1,11 @@
+#node mudules
+node_modules/
+# build output  
+dist/
+# local env files
+.env
+# log files
+logs/
+# dependency directories
+jspm_packages/
+# coverage directory used by tools like istanbul

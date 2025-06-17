@@ -1,7 +1,7 @@
 import { Jimp } from "jimp";
 
-const inputPath='./input.jpg';
-const outputPath='./output.jpg';
+const inputPath='./input.jpeg';
+const outputPath='./output.jpeg';
 
 Jimp.read(inputPath)
     .then(image => {    
